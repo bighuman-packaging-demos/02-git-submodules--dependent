@@ -1,0 +1,11 @@
+{
+    "name": "@bighuman/dependent",
+    "version": "0.0.2-git-submodules",
+    "workspaces": [
+        "packages/**"
+    ],
+    "main": "./index.js",
+    "dependencies": {
+        "@bighuman/dependency": "0.0.2-git-submodules"
+    }
+}

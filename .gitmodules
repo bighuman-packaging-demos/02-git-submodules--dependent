@@ -1,0 +1,3 @@
+[submodule "packages/dependency"]
+	path = packages/dependency
+	url = git@github.com:bighuman-packaging-demos/02-git-submodules--dependency.git
